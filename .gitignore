@@ -1,0 +1,44 @@
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv_novoprojeto/
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dados
+*.csv
+*.xlsx
+*.db
+*.sqlite
+data/
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
