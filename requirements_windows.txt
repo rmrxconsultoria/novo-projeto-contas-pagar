@@ -1,4 +1,4 @@
 # Para desenvolvimento local no Windows
 -r requirements.txt
-pywin32>=306
+
 pyodbc>=5.0.1
